@@ -1,4 +1,4 @@
-# iOS GitHub Practice App (branch A)
+# iOS GitHub Practice App (merged A and B)
 
 Testni repo
 Ovo je testni repo za vježbu
